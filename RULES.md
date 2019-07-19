@@ -173,8 +173,7 @@ Choose the role based on what you want to spend the round doing;
 Choosing a Head of Staff role (such as Chief Medical Officer) means you will be expected to play to a higher standard of roleplay, seriousness 
 and competence. You may be Jobbaned from Command if you fail to meet these standards, or if you ignore your duties;
 
-If you need to leave the round early as a member of Command, inform the rest of Command and Adminhelp it to inform the Administrators. Removing 
-yourself from the round without doing this will lead to a Permanent Command Jobban;
+If you need to leave the round early as a member of Command, you must place your body in cryo. If you physically cannot do this (you cannot reach cryo, or you must leave IMMEDIATELY for RL reasons) then you must instead ahelp this prior to leaving so that an admin can move you to cryo after you log out. Something like "I must leave right now, please cryo me" is enough. Leaving without either cryoing yourself or informing the admins will lead to a permanent job ban from all command jobs.
 
 If for some emergency or technical issue you disconnect as a sensitive role and are Jobbanned on the pretense of leaving without notifying an 
 Administrator, a quick appeal on the forums explaining what happened will solve the issue and revert the Jobban;
