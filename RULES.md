@@ -170,23 +170,25 @@ your time on a specific server without having to share your disinterest or plain
 
 Choose the role based on what you want to spend the round doing;
 
-Choosing a Head of Staff role (such as Chief Medical Officer) means you will be expected to play to a higher standard of roleplay, seriousness 
-and competence. You may be Jobbaned from Command if you fail to meet these standards, or if you ignore your duties;
+Choosing to play as a VIP (such as the Nanotrasen Representative), Head of Staff (such as Chief Medical Officer), or the station AI means you will be expected to play to a higher standard of roleplay, seriousness and competence. You may be Jobbaned from Command if you fail to meet these standards, or if you ignore your duties;
 
-If you need to leave the round early as a member of Command, you must place your body in cryo. If you physically cannot do this (you cannot reach cryo, or you must leave IMMEDIATELY for RL reasons) then you must instead ahelp this prior to leaving so that an admin can move you to cryo after you log out. Something like "I must leave right now, please cryo me" is enough. Leaving without either cryoing yourself or informing the admins will lead to a permanent job ban from all command jobs.
+If you need to leave the round early as a VIP, Head of Staff, or the station AI you must inform Command and place yourself in cryo, or in the case of the AI, use the Wipe Core verb in the OOC tab. If you cannot do this for any reason, then you must instead Adminhelp prior to leaving so that an Administrator can remove you after logging out. Failing to inform Command and cryoing yourself, wiping your core, or informing the admins will lead to a VIP and Command, or Synthetic Jobban where appropriate;
 
-If for some emergency or technical issue you disconnect as a sensitive role and are Jobbanned on the pretense of leaving without notifying an 
-Administrator, a quick appeal on the forums explaining what happened will solve the issue and revert the Jobban;
+If due to some emergency or technical issue you disconnect as a role listed above and are Jobbanned on the pretense of leaving without notifying Command or an Administrator, a quick appeal on the forums explaining what happened will solve the issue and revert the Jobban;
 
-Frequently joining a round, only to then leave if you did not get an Antagonist Role (Antag Fishing), is not permitted;
+If you choose to join as an important non-Command role, such as a Doctor or Engineer, you are expected to be able to fulfill said role's duties to a reasonable extent when work is actually needed to be done. Using the job just for the equipment, or consistently ignoring any emergencies that may require your attention may lead to a Jobban;
 
-If you choose to join as a more important role, such as a Doctor, Engineer or Security Officer, you are expected to be able to fulfill said 
-role's duties to a reasonable extent when work is actually needed to be done. Using the job just for the equipment and then ignoring any 
-emergencies that may require your attention consistently may lead to a Jobban;
+The Captain and members of Security are expected to follow and have a good understanding of Space Law and SOP (Standard Operating Procedure). Consistent abuse of these positions will lead to a Jobban; however, you may request to play a corrupt member of Security via Adminhelp, with valid justification;
 
-The following or not of SOP (Standard Operating Procedure) is an IC issue, and should be handled and enforced in-character, not via Adminhelp, 
-unless the player in question runs afoul of other Server Rules or the behavior persists excessively over multiple rounds. However, jobs which 
-specifically involve SoP - NT Rep , IAA and Magistrate - are required to follow it.
+Following, or failing to follow SOP is an IC issue, and should be handled and enforced in-character, not via Adminhelp, unless the player in question runs afoul of other Server Rules or the behavior persists excessively over multiple rounds. However, jobs which specifically involve SOP - NT Rep , IAA, and Magistrate - are required to follow it;
+
+The order of the Laws determine their priority for Synthetics, with higher priority laws being displayed first. If one contradicts another, you are to follow the highest on the list. Common sense is to be used with all default Lawsets – they have been installed by NT for the protection of the station and their interests. Rules Lawyering Lawsets in order to antagonize the crew is not allowed, and will lead to a Synthetics Jobban;
+
+Synthetics may not ask for law changes, attempt to force the crew to change laws, or prevent Command from lawfully changing their laws unless they are an Antagonist, subverted, or their laws require it. If you suspect a law to be grief, Adminhelp before acting upon it;
+
+Cyborgs are expected to follow the same guidelines as organic crewmembers charged with those tasks, unless their laws state otherwise (eg, Engineering Cyborgs should follow the same guidelines as organic Engineers). Cyborgs are to follow an AI's commands without hesitation, unless unlinked or Laws dictate otherwise;
+
+Frequently joining a round, only to then leave or commit suicide if you did not get an Antagonist Role (Antag Fishing), is not permitted;
 
   
 # Rule 6: Play Antagonists Responsibly
@@ -299,44 +301,13 @@ Evidence of Antagonist activity is required before you take steps to treat anyon
 to drink holy water or randomly drag people into the Chapel
 
   
-# Rule 9: Synthetics
-
-The order of the Laws is what determines the priority of the Laws. If two Laws contradict one another, you are to follow the one that is highest 
-in the list, as it would overrule any contradictory Laws that come under it;
-
-Common sense is to be used with all default Lawsets – they have been installed by NT for the protection of the station and their interests. 
-Rules Lawyering Lawsets in order to antagonize the crew is not allowed;
-
-As the AI, you may not ask for Law changes, attempt to force the crew to change your Laws, or prevent the Command staff from changing your Laws, 
-unless you are an Antagonist, subverted, or your Laws require it. If you suspect a Law change to be grief, Adminhelp it, so it can be looked 
-into, before you act on the new Law;
-
-The AI role is under the same scrutiny as Head of Staff roles. Administrators may Jobban you from this role if they feel you cannot live up to 
-it. If you must leave the round as AI, announce to the crew that you are leaving, Adminhelp that you are leaving as AI, then use OOC -> Wipe 
-Core. Failing to Adminhelp when leaving as AI is grounds for a permanent Jobban from AI;
-
-When performing duties as a Cyborg, you are to follow the same guidelines as the organic crewmembers charged with those tasks, unless your Laws 
-state otherwise;
-
-Spamming AI Voice Announcements, or using it for long strings of nonsensical/unserious words, is not permitted.
-
-  
-# Rule 10: Corporate Security
-
-As a member of Security, higher standards of play are expected of you. You are expected to follow Space Law and Standard Operating Procedure 
-correctly, when playing Security. Adminhelping or posting the words "Vox Can't Love" in an appeal will also let us know you've read the Rules;
-
-If you wish to RP a corrupt member of Security (taking bribes, beating a prisoner, etc), then Adminhelp for permission first. We're generally 
-willing to give permission if the situation warrants it, or you have a valid justification
-
-  
-# Rule 11: Karma Trading
+# Rule 9: Karma Trading
 
 Swapping Karma between friends repeatedly or other methods of 'Farming' is an offense that will result in being banned from the Karma system and 
 all of its unlocks. Exchanging Karma between the same IP is forbidden as well
 
   
-# Rule 12: Erotic Content
+# Rule 10: Erotic Content
 
 As a general rule, anything more sexualized than kissing and hugging is considered ERP. We obviously cannot list all the fetishes that exist 
 here, so please use common sense. Administrators may ask you to stop anything they feel is borderline, in which case you are to stop at once;
