@@ -274,7 +274,7 @@ attempted to severely hurt/kill you. Preemptively disabling someone, responding 
 already down, is not self-defense;
 
 Minor assault and fistfights are acceptable, assuming that both players have a reasonable justification as to why the fight started. Assault 
-without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "Vox Can't Love" in an appeal will let us know you've read the Rules;
+without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "lamer sawdust" in an appeal will let us know you've read the Rules;
 
   
 ## Clown and Mime:
