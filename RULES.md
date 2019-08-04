@@ -319,3 +319,12 @@ Linking any type of NSFW content anywhere on the server is strictly prohibited
 
 A massive thanks to Necaladun, Freestyla, SkyPing, Kyet, Scrubmcnoob, FlattestGuitar, Jedr, Fethas, LightFire and Saywat for putting up with my 
 constant requests for nitpicks
+
+# Changelog (Last Update: 2019/August/4)
+
+2019/August/4: Added this version information.
+
+2019/July/21: Merged some rules, reduced length, changed secret phrase.
+
+2019/July/19: Updated rule 5 paragraph 3 regarding leaving the round / cryoing. Changelog started.
+ 
