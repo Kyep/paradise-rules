@@ -64,7 +64,7 @@ When in doubt, Adminhelp any question you may have about the Server Rules.
 The following behaviors are prohibited on Paradise Station:
 
 Metagaming (using OOC information acquired via means unavailable to other players. Examples include, but are not limited to, third-party 
-software or direct, physical communication). This includes streaming; inform the Server Staff before streaming a round;
+software or direct, physical communication). This includes streaming; get permission from the Server Staff via ahelp before each round you stream.
 
 Placing current round information into OOC chat (IC in OOC);
 
@@ -320,7 +320,9 @@ Linking any type of NSFW content anywhere on the server is strictly prohibited
 A massive thanks to Necaladun, Freestyla, SkyPing, Kyet, Scrubmcnoob, FlattestGuitar, Jedr, Fethas, LightFire and Saywat for putting up with my 
 constant requests for nitpicks
 
-# Changelog (Last Update: 2019/August/4)
+# Changelog (Last Update: 2019/Sept/2)
+
+2019/Sept/2: Clarified rule on streaming
 
 2019/August/4: Added this version information.
 
