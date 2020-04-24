@@ -274,7 +274,7 @@ attempted to severely hurt/kill you. Preemptively disabling someone, responding 
 already down, is not self-defense;
 
 Minor assault and fistfights are acceptable, assuming that both players have a reasonable justification as to why the fight started. Assault 
-without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "lamer sawdust" in an appeal will let us know you've read the Rules;
+without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "spiritual goat" in an appeal will let us know you've read the Rules;
 
   
 ## Clown and Mime:
@@ -320,7 +320,9 @@ Linking any type of NSFW content anywhere on the server is strictly prohibited
 A massive thanks to Necaladun, Freestyla, SkyPing, Kyet, Scrubmcnoob, FlattestGuitar, Jedr, Fethas, LightFire and Saywat for putting up with my 
 constant requests for nitpicks
 
-# Changelog (Last Update: 2019/Sept/2)
+# Changelog (Last Update: 2020/Apr/24)
+
+2020/Apr/24: Updated secret phrase
 
 2019/Sept/2: Clarified rule on streaming
 
