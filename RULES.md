@@ -320,7 +320,15 @@ Linking any type of NSFW content anywhere on the server is strictly prohibited
 A massive thanks to Necaladun, Freestyla, SkyPing, Kyet, Scrubmcnoob, FlattestGuitar, Jedr, Fethas, LightFire and Saywat for putting up with my 
 constant requests for nitpicks
 
-# Changelog (Last Update: 2020/Apr/24)
+
+# Advanced Rules
+
+For clarification about how the above rules are interpreted, as well as precedents for each rule, see [The Advanced Rules](https://www.paradisestation.org/wiki/index.php/Rules)
+
+
+# Changelog (Last Update: 2020/May/18)
+
+2020/May/18: Updated domain links in all files. Moved to HTTPS in all files. Added link to advanced rules at the bottom.
 
 2020/Apr/24: Updated secret phrase
 
