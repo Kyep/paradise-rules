@@ -274,7 +274,7 @@ attempted to severely hurt/kill you. Preemptively disabling someone, responding 
 already down, is not self-defense;
 
 Minor assault and fistfights are acceptable, assuming that both players have a reasonable justification as to why the fight started. Assault
-without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "spiritual goat" in an appeal will let us know you've read the Rules;
+without any provocation or warning is strictly disallowed under a majority of circumstances. Adminhelping or posting the words "Sense isn't Common" in an appeal will let us know you've read the Rules;
 
 
 ## Clown and Mime:
@@ -320,12 +320,14 @@ Linking any type of NSFW content anywhere on the server is strictly prohibited
 A massive thanks to Necaladun, Freestyla, SkyPing, Kyet, Scrubmcnoob, FlattestGuitar, Jedr, Fethas, LightFire and Saywat for putting up with my
 constant requests for nitpicks
 
-# Advanced Rules
+# Advanced Rules and Precedents
 
 For clarification about how the above rules are interpreted, as well as precedents for each rule, see [The Advanced Rules](https://www.paradisestation.org/wiki/index.php/Rules)
 
 
-# Changelog (Last Update: 2020/May/18)
+# Changelog (Last Update: 2020/Oct/04)
+
+2020/Oct/04: Updated secret phrase, added "and Precedents" to the advanced rules section title.
 
 2020/May/18: Updated domain links in all files. Moved to HTTPS in all files. Added link to advanced rules at the bottom.
 
